@@ -17,8 +17,18 @@ app.post(
 		username: process.env._USERNAME,
 		password: process.env._PASSWORD,
 		key: process.env._USERID,
-		expiry: 60 * 60 * 24,
+		expiry: 60 * 60,
 		mongo: false
+	})
+);
+
+app.post(
+	'/mongo',
+	login({
+		username:'email',
+		password:'password',
+		expiry: 60 * 60,
+		mongo: require('../models/Authenticate')
 	})
 );
 

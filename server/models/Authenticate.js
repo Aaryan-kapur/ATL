@@ -3,15 +3,15 @@ const createModel = require('../middlewares/createModel');
 
 const data = [
 	{
-		name: { type: String, require: true },
-		price: Number,
-		qty: { type: Number, default: 0 },
-		desc: String
+		first: { type: String },
+		last: { type: String },
+		email: String,
+		password: String
 	},
 	{
-		collection: 'items'
+		collection: 'authenticates'
 	},
-	"Items"
+	"Authenticates"
 ];
 
 module.exports = createModel(data)
