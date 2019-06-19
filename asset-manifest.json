@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ATL/static/css/main.990a71df.chunk.css",
-    "main.js": "/ATL/static/js/main.9da04691.chunk.js",
-    "main.js.map": "/ATL/static/js/main.9da04691.chunk.js.map",
-    "runtime~main.js": "/ATL/static/js/runtime~main.10474db9.js",
-    "runtime~main.js.map": "/ATL/static/js/runtime~main.10474db9.js.map",
-    "static/css/2.fa53857e.chunk.css": "/ATL/static/css/2.fa53857e.chunk.css",
-    "static/js/2.5bb0c442.chunk.js": "/ATL/static/js/2.5bb0c442.chunk.js",
-    "static/js/2.5bb0c442.chunk.js.map": "/ATL/static/js/2.5bb0c442.chunk.js.map",
-    "index.html": "/ATL/index.html",
-    "precache-manifest.2dfc3336887bf03dd4e5539bb124749d.js": "/ATL/precache-manifest.2dfc3336887bf03dd4e5539bb124749d.js",
-    "service-worker.js": "/ATL/service-worker.js",
-    "static/css/2.fa53857e.chunk.css.map": "/ATL/static/css/2.fa53857e.chunk.css.map",
-    "static/css/main.990a71df.chunk.css.map": "/ATL/static/css/main.990a71df.chunk.css.map",
-    "static/media/mdb.css": "/ATL/static/media/arrow_right.8ef6a08c.svg",
-    "static/media/aim-logo.png": "/ATL/static/media/aim-logo.190875df.png"
+    "main.css": "static/css/main.990a71df.chunk.css",
+    "main.js": "static/js/main.9da04691.chunk.js",
+    "main.js.map": "static/js/main.9da04691.chunk.js.map",
+    "runtime~main.js": "static/js/runtime~main.10474db9.js",
+    "runtime~main.js.map": "static/js/runtime~main.10474db9.js.map",
+    "static/css/2.fa53857e.chunk.css": "static/css/2.fa53857e.chunk.css",
+    "static/js/2.5bb0c442.chunk.js": "static/js/2.5bb0c442.chunk.js",
+    "static/js/2.5bb0c442.chunk.js.map": "static/js/2.5bb0c442.chunk.js.map",
+    "index.html": "index.html",
+    "precache-manifest.2dfc3336887bf03dd4e5539bb124749d.js": "precache-manifest.2dfc3336887bf03dd4e5539bb124749d.js",
+    "service-worker.js": "service-worker.js",
+    "static/css/2.fa53857e.chunk.css.map": "static/css/2.fa53857e.chunk.css.map",
+    "static/css/main.990a71df.chunk.css.map": "static/css/main.990a71df.chunk.css.map",
+    "static/media/mdb.css": "static/media/arrow_right.8ef6a08c.svg",
+    "static/media/aim-logo.png": "static/media/aim-logo.190875df.png"
   }
 }
