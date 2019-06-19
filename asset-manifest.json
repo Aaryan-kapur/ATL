@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ATL/static/css/main.c7c4f4c5.chunk.css",
+    "main.js": "/ATL/static/js/main.3d358020.chunk.js",
+    "main.js.map": "/ATL/static/js/main.3d358020.chunk.js.map",
+    "runtime~main.js": "/ATL/static/js/runtime~main.10474db9.js",
+    "runtime~main.js.map": "/ATL/static/js/runtime~main.10474db9.js.map",
+    "static/css/2.0ef2c6e4.chunk.css": "/ATL/static/css/2.0ef2c6e4.chunk.css",
+    "static/js/2.bafb2ffe.chunk.js": "/ATL/static/js/2.bafb2ffe.chunk.js",
+    "static/js/2.bafb2ffe.chunk.js.map": "/ATL/static/js/2.bafb2ffe.chunk.js.map",
+    "index.html": "/ATL/index.html",
+    "precache-manifest.c2e12029c6d16c81772e94ebce4c917d.js": "/ATL/precache-manifest.c2e12029c6d16c81772e94ebce4c917d.js",
+    "service-worker.js": "/ATL/service-worker.js",
+    "static/css/2.0ef2c6e4.chunk.css.map": "/ATL/static/css/2.0ef2c6e4.chunk.css.map",
+    "static/css/main.c7c4f4c5.chunk.css.map": "/ATL/static/css/main.c7c4f4c5.chunk.css.map",
+    "static/media/mdb.css": "/ATL/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/aim-logo.png": "/ATL/static/media/aim-logo.190875df.png"
+  }
+}
