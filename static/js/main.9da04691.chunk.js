@@ -145,7 +145,7 @@
                   ? (p("#subBut").toggleClass("submit"),
                     p("#loader").toggleClass("submit"),
                     b.a
-                      .post("https://18.217.73.138:8080/atl", t)
+                      .post("https://perplexed.tech/atl", t)
                       .then(function(e) {
                         e.data.success &&
                           (p("#foo").toggleClass("submit"),
